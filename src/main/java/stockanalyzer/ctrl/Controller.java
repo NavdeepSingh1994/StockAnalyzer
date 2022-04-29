@@ -1,3 +1,4 @@
+//https://github.com/NavdeepSingh1994/StockAnalyzer.git
 package stockanalyzer.ctrl;
 
 import stockanalyzer.ui.YahooException;
@@ -86,7 +87,5 @@ public class Controller {
 			e.printStackTrace();
 		}
 		return count;
-
 	}
-
 }
